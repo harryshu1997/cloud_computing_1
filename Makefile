@@ -1,6 +1,6 @@
 setup:
 	python3 -m venv ~/.cloud_computing_1
-	#source ~/.cloud_computing_1/bin/activate
+	source ~/.cloud_computing_1/bin/activate
 	
 install:
 	pip install --upgrade pip &&\
